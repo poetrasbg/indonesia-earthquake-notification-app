@@ -1,6 +1,6 @@
-# 🌍 IndonesiaEarth — Indonesia Earthquake Notification App
+# 🌍 IndonesianQuake — Indonesia Earthquake Notification App
 
-**IndonesiaEarth** adalah aplikasi web real-time untuk memantau dan mendapatkan notifikasi gempa bumi di Indonesia. Data bersumber langsung dari API resmi **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)** dengan fitur notifikasi berbasis lokasi GPS, laporan komunitas, dan visualisasi peta interaktif.
+**IndonesianQuake** adalah aplikasi web real-time untuk memantau dan mendapatkan notifikasi gempa bumi di Indonesia. Data bersumber langsung dari API resmi **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)** dengan fitur notifikasi berbasis lokasi GPS, laporan komunitas, dan visualisasi peta interaktif.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
