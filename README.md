@@ -19,6 +19,8 @@
 - Estimasi intensitas MMI (skala 1–9) berdasarkan magnitude dan kedalaman
 - Kalkulasi jarak otomatis dari lokasi pengguna ke episenter gempa
 - Statistik ringkasan: rata-rata magnitude, kedalaman rata-rata, gempa terdekat
+![Dashboard](https://github.com/user-attachments/assets/36bb7c96-1ca1-47e7-9279-1213494f9db2)
+
 
 ### 📋 Sistem Pelaporan Gempa Komunitas
 - Form pelaporan getaran yang dirasakan oleh pengguna
@@ -26,6 +28,8 @@
 - Deteksi lokasi otomatis via GPS atau input manual
 - Validasi input di sisi server (Next.js API Routes + Supabase)
 - Respons sukses/error yang informatif
+![Pelaporan](https://github.com/user-attachments/assets/43e437de-8e33-486f-9a09-ebb28672abd1)
+
 
 ### 🔔 Notifikasi Berbasis Lokasi GPS
 - Setup zona notifikasi dengan radius **5–500 km** dari titik manapun
